@@ -1,0 +1,7 @@
+{
+  "name": "VoxCheck AI - Voice Authenticity Guard",
+  "description": "A high-performance AI-generated voice detection system supporting Tamil, English, Hindi, Malayalam, and Telugu. Analyze MP3 voice samples to distinguish between synthetic and human speakers.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
